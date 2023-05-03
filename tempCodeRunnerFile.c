@@ -1,0 +1,1 @@
+if(text_to_cryptographie[f] == space[0])printf("word");
